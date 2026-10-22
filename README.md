@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="😎" width="32" height="32" /> Hey! Nice to see you.
 
 Welcome to my page!<br>
-I’m @angelicioux, a developer who builds data solutions, custom **Power BI** visuals and the code around them. Based in 📍 **YOUR CITY, YOUR COUNTRY**.
+I’m @angelicioux, a developer who builds data solutions, custom **Power BI** visuals and the code around them. Based in 📍 **Maldives**.
 
 - 🌱 Always learning something new in data, BI and web development and I’m currently learning masters in cyber security ...
 - 💬 Ask me about Power BI, DAX, SQL or TypeScript
